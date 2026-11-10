@@ -88,8 +88,9 @@ header nav a{
     background: linear-gradient(180deg, rgb(183, 183, 158), white);
 }
 #contact form{
-    margin-right: 200px;
+    margin-right: 140px;
     margin-top: 130px;
+    margin-bottom: 20px;
 }
 #contact div{
     margin-left: 50px;
