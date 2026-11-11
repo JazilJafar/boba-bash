@@ -4,6 +4,9 @@
  
 *Boba Drops is a Hack Club program where your members build personal websites and get rewarded with a grant to buy boba.*
 
+# Screenshots
+
+ ![Screenshot](./sce.png)
 # Features
 
 - **Beginners Friendly**: No prior coding experience is required. We provide step-by-step guidance to help you to create  personal website.
