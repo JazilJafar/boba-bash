@@ -22,6 +22,12 @@
 
  4. **Get Your Boba** : After successfully deploying your website, you will receive your boba and winner will get a domain for free.
 
+# Using
+
+**You can use through in live url : https://jaziljafar.github.io/boba-bash/**
+
+or by clonning by using `git clone https://github.com/JazilJafar/boba-bash.git`
+
  # Thank You
 
  *We hope everyone will came and enjoy the boba bash workshop Thank you*
