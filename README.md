@@ -7,6 +7,13 @@
 # Screenshots
 
  ![Screenshot](./sce.png)
+
+# What i built
+
+ **I built a boba bash website where you i can show the information about boba bash in our club and also they can join the program and also they can get the boba after completing the program.** 
+
+ **Languages Used**: HTML, CSS only;
+
 # Features
 
 - **Beginners Friendly**: No prior coding experience is required. We provide step-by-step guidance to help you to create  personal website.
@@ -15,7 +22,7 @@
 
 - **Rewards**: Complete the program and receive your boba and winner will get a domain for free.
 
-# **How to Get Started**
+# How to Get Started
 
  1. **Join the Program**: Sign up for Our club through the Hack Club website and we approve your membership if you meet the requirements.
 
@@ -25,7 +32,7 @@
 
  4. **Get Your Boba** : After successfully deploying your website, you will receive your boba and winner will get a domain for free.
 
-# Using
+# Using in your browser
 
 **You can use through in live url : https://jaziljafar.github.io/boba-bash/**
 
